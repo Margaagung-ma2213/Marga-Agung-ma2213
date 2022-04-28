@@ -1,0 +1,84 @@
+body{
+	background-color: rgba(48, 79, 205, 0.655);
+	font-family: roboto;
+	text-align: left;
+	
+}
+h1{
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 50px;
+	text-align: center;
+	color: rgb(11, 11, 10);
+}
+.ketengah{
+	margin: 10px auto;
+	width: 1150px;
+}
+
+ 
+h2{
+	font-family: sans-serif;
+	font-size: 35px;
+	text-align: start;
+	color: rgb(241, 234, 234);
+}
+h3{
+	font-family: sans-serif;
+	font-size: 15px;
+	text-align: start;
+	color: rgb(220, 228, 210);
+
+}
+ 
+p{
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 25px;
+	text-align: justify;
+	color: rgb(33, 31, 31);
+}
+.charts {
+	background-color: azure;
+
+}
+.contoh-link,
+.contoh-link:link,
+.contoh-link:active,
+.contoh-link:visited{
+	font-size: 20pt;
+	background: #1abc4b;
+	color: #fff;
+	text-decoration: none;
+	padding: 10px;
+	font-family: sans-serif;	
+}
+ 
+.contoh-link:hover{
+	background: #23eb44;
+}
+
+.arc text {
+	font: 10px sans-serif;
+	text-anchor: middle;
+}
+
+.arc path {
+	stroke: #fff;
+}
+
+.title {
+	fill: rgb(19, 231, 37);
+	font-weight: bold;
+}
+
+  .chartCard {
+	display: flex;
+	align-items: left;
+	justify-content: left;
+	padding: 20px;
+  }
+  .chartBox {
+	width: 500px;
+	display: flex;
+	padding: 20px;
+	border-radius: 20px;
+  }
